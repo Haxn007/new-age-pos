@@ -1,1 +1,1 @@
-# new-age-pos
+# Point-of-Sale NaturePOS
